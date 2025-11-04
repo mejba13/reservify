@@ -1,5 +1,36 @@
 {
     "$schema": "https://json.schemastore.org/package.json",
+    "name": "reservify-booking-system",
+    "version": "1.0.0",
+    "description": "Modern API-first booking & reservation system built with Laravel 12 & Vue 3",
+    "author": {
+        "name": "Engr Mejba Ahmed",
+        "email": "contact@mejba.me",
+        "url": "https://www.mejba.me"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/mejba/reservify-booking-system#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mejba/reservify-booking-system.git"
+    },
+    "bugs": {
+        "url": "https://github.com/mejba/reservify-booking-system/issues"
+    },
+    "keywords": [
+        "laravel",
+        "vue3",
+        "booking-system",
+        "reservation-system",
+        "appointment-scheduling",
+        "spa",
+        "api",
+        "postgresql",
+        "sanctum",
+        "tailwindcss",
+        "pinia",
+        "vue-router"
+    ],
     "private": true,
     "type": "module",
     "scripts": {

@@ -801,11 +801,41 @@ SOFTWARE.
 
 ## 🙏 Acknowledgments
 
+### Creator
+This project was designed, developed, and maintained by **[Engr Mejba Ahmed](https://www.mejba.me)**.
+
+### Technologies
 - **Laravel** - The PHP framework for web artisans
 - **Vue.js** - The progressive JavaScript framework
 - **Tailwind CSS** - Utility-first CSS framework
 - **Inter Font** - Beautiful typeface by Rasmus Andersson
 - **Heroicons** - Beautiful hand-crafted SVG icons
+
+### Special Thanks
+- The open-source community for their amazing tools and libraries
+- All developers who maintain the dependencies used in this project
+
+---
+
+## 👨‍💻 Author
+
+**Engr Mejba Ahmed**
+
+### 🤝 Hire / Work with me:
+- 🔗 **Fiverr** (Custom Builds, Integrations, Performance): [View Profile](https://www.fiverr.com/s/EgxYmWD)
+- 🌐 **Personal Portfolio**: [mejba.me](https://www.mejba.me)
+- 🏢 **Ramlit System Portal**: [system.ramlit.com](https://system.ramlit.com)
+- 🎨 **ColorPark Creative Agency**: [colorpark.io](https://www.colorpark.io)
+- 🛡️ **xCyberSecurity Global Services**: [xcybersecurity.io](https://www.xcybersecurity.io)
+
+### 💼 Services Offered:
+- Full-stack web application development
+- Laravel & Vue.js custom solutions
+- API design and integration
+- Performance optimization
+- Database architecture
+- UI/UX implementation
+- DevOps and deployment
 
 ---
 
@@ -819,9 +849,10 @@ SOFTWARE.
 ### Issues
 Found a bug? Have a feature request? Please [open an issue](https://github.com/YOUR-USERNAME/reservify-booking-system/issues).
 
-### Community
-- GitHub Discussions: [Coming Soon]
-- Discord: [Coming Soon]
+### Get in Touch
+- 📧 Email: Available via [mejba.me](https://www.mejba.me)
+- 💼 Hire on Fiverr: [View Gigs](https://www.fiverr.com/s/EgxYmWD)
+- 🌐 Portfolio: [mejba.me](https://www.mejba.me)
 
 ---
 
@@ -876,8 +907,20 @@ Found a bug? Have a feature request? Please [open an issue](https://github.com/Y
 
 <div align="center">
 
-**Built with ❤️ using Laravel 12, Vue 3, PostgreSQL, and Tailwind CSS**
+**Built with ❤️ by [Engr Mejba Ahmed](https://www.mejba.me)**
+
+**Tech Stack:** Laravel 12 • Vue 3 • PostgreSQL • Tailwind CSS
+
+---
+
+### 🤝 Need Custom Development?
+
+[**Hire me on Fiverr**](https://www.fiverr.com/s/EgxYmWD) | [**View Portfolio**](https://www.mejba.me) | [**Visit ColorPark**](https://www.colorpark.io)
+
+---
 
 ⭐ Star this repo if you find it helpful!
+
+**© 2025 Engr Mejba Ahmed. Licensed under MIT.**
 
 </div>

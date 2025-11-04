@@ -1,13 +1,28 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/livewire-starter-kit",
+    "name": "mejba/reservify-booking-system",
     "type": "project",
-    "description": "The official Laravel starter kit for Livewire.",
+    "description": "Modern API-first booking & reservation system with smart scheduling and real-time availability.",
     "keywords": [
         "laravel",
-        "framework"
+        "vue",
+        "booking-system",
+        "reservation-system",
+        "appointment-scheduling",
+        "sanctum",
+        "postgresql",
+        "api",
+        "spa"
     ],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Engr Mejba Ahmed",
+            "email": "contact@mejba.me",
+            "homepage": "https://www.mejba.me",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^8.2",
         "laravel/framework": "^12.0",

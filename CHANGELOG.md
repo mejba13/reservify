@@ -161,6 +161,14 @@ If upgrading:
 
 ---
 
+## Author
+
+**Engr Mejba Ahmed**
+- Portfolio: [mejba.me](https://www.mejba.me)
+- Fiverr: [Custom Development Services](https://www.fiverr.com/s/EgxYmWD)
+- ColorPark: [colorpark.io](https://www.colorpark.io)
+- xCyberSecurity: [xcybersecurity.io](https://www.xcybersecurity.io)
+
 ## Contributors
 
 Thanks to all the contributors who made this release possible!
@@ -170,3 +178,7 @@ Thanks to all the contributors who made this release possible!
 ---
 
 For more information, see the [README](README.md) and [Documentation](SETUP.md).
+
+---
+
+**© 2025 Engr Mejba Ahmed. All rights reserved.**
